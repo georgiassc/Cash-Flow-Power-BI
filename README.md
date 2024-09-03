@@ -45,3 +45,17 @@ This repository contains a project developed in Power BI to analyze a company's 
 2. Use the available filters to customize the analysis according to your interests.
 3. To export a specific visualization, use the Power BI export options.
 
+## Contributions
+
+I'm exploring Power BI out of curiosity. If you have any suggestions for improving this project, feel free to contribute by:
+
+1. Fork this repository.
+2. Create a new branch with your feature or bug fix: `git checkout -b my-feature`.
+3. Commit your changes: `git commit -m 'Add my new feature'`.
+4. Push to the main branch: `git push origin my-feature`.
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
