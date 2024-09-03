@@ -20,4 +20,28 @@ This repository contains a project developed in Power BI to analyze a company's 
 - `data/`: Contains the data files used in the project (XLSX).
 - `dashboards/`: Stores the Power BI files (PBIX).
 
+## How to Use
+
+### Requirements
+
+- **Power BI Desktop**: To view and interact with the `.pbix` file, you need to have Power BI Desktop installed. You can download it [here](https://powerbi.microsoft.com/desktop/).
+
+### Instructions
+
+1. Clone the repository to your local environment:
+   ```bash
+   git clone https://github.com/georgiassc/cash-flow-power-BI.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd cash-flow-power-BI
+   ```
+3. Open the `fluxo_de_caixa.pbix` file in Power BI Desktop.
+4. Explore the dashboard and available analyses, customizing as needed.
+
+## How to Use
+
+1. After opening the file in Power BI, navigate through the different dashboards to explore the visualizations.
+2. Use the available filters to customize the analysis according to your interests.
+3. To export a specific visualization, use the Power BI export options.
 
