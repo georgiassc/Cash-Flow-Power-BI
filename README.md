@@ -4,6 +4,19 @@ This repository contains a project developed in Power BI to analyze a company's 
 
 ![Captura de Tela (13)](https://github.com/user-attachments/assets/3ea5b794-0aee-406b-97c4-05d6c3755b55)
 
+# Table of Contents
+
+- [Project Features](#project-features)
+- [Tools Used](#tools-used)
+- [Repository Structure](#repository-structure)
+- [How to Use](#how-to-use)
+  - [Requirements](#requirements)
+  - [Instructions](#instructions)
+  - [Navigating the Dashboards](#navigating-the-dashboards)
+- [Contributions](#contributions)
+- [License](#license)
+
+
 ## Project Features
 
 - **Cash Flow Dashboard**: Visualize cash inflows and outflows clearly and concisely, with interactive charts that facilitate analysis.
@@ -37,9 +50,8 @@ This repository contains a project developed in Power BI to analyze a company's 
    cd cash-flow-power-BI
    ```
 3. Open the `fluxo_de_caixa.pbix` file in Power BI Desktop.
-4. Explore the dashboard and available analyses, customizing as needed.
 
-## How to Use
+## Navigating the Dashboard
 
 1. After opening the file in Power BI, navigate through the different dashboards to explore the visualizations.
 2. Use the available filters to customize the analysis according to your interests.
